@@ -1,0 +1,12 @@
+.git
+.gitignore
+.github
+.idea
+.vscode
+*.iml
+target
+Dockerfile
+.dockerignore
+AGENTS.md
+README.md
+*.log
