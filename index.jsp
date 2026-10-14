@@ -116,16 +116,6 @@
                         </div>
                     </a>
                 </div>
-                <div class="col">
-                    <a href="ejercicios/9/Informacion.jsp" class="text-decoration-none">
-                        <div class="card h-100 border-0 shadow-sm">
-                            <div class="card-body">
-                                <i class="bi bi-9-circle-fill text-dark fs-2"></i>
-                                <h2 class="h5 mt-3 mb-0">Ejercicio 9 (Base de datos)</h2>
-                            </div>
-                        </div>
-                    </a>
-                </div>
             </div>
         </section>
     </main>
